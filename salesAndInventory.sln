@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salesAndInventory", "salesAndInventory\salesAndInventory.csproj", "{137A811E-D8B2-4DC3-8C60-B38AC825DFE8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ICakeInstall", "ICakeInstall\ICakeInstall.vdproj", "{0A541C08-BF7E-4C9A-8C8C-342BEC347148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137A811E-D8B2-4DC3-8C60-B38AC825DFE8}.Debug|x86.ActiveCfg = Debug|x86
+		{137A811E-D8B2-4DC3-8C60-B38AC825DFE8}.Debug|x86.Build.0 = Debug|x86
+		{137A811E-D8B2-4DC3-8C60-B38AC825DFE8}.Release|x86.ActiveCfg = Release|x86
+		{137A811E-D8B2-4DC3-8C60-B38AC825DFE8}.Release|x86.Build.0 = Release|x86
+		{0A541C08-BF7E-4C9A-8C8C-342BEC347148}.Debug|x86.ActiveCfg = Debug
+		{0A541C08-BF7E-4C9A-8C8C-342BEC347148}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DFA6B2C-82F8-4936-A6D2-D1BEBA6E9C2A}
+	EndGlobalSection
+EndGlobal
